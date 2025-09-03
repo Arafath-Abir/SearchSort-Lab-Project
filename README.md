@@ -1,17 +1,31 @@
+🔎 Search and Sort Algorithms in C
 
-# Search & Sort Suite (C, Modular)
+A modular C project implementing fundamental searching and sorting algorithms. This project is designed for learning, demonstration, and practice of algorithmic problem-solving with clean, reusable code.
 
-A clean, modular C project showcasing **searching** and **sorting** algorithms.
+✨ Features
 
-## Algorithms
-- Searching: Linear Search, Binary Search
-- Sorting: Bubble, Quick, Insertion, Merge, Selection
+Searching Algorithms:
 
-## Build & Run
-```bash
-make
-./search_sort_demo
-```
+Linear Search
 
-## Notes
-- Binary Search assumes sorted input — the demo can call `merge_sort` first to ensure ordering.
+Binary Search (with automatic sorting for safe use)
+
+Sorting Algorithms:
+
+Bubble Sort
+
+Quick Sort
+
+Insertion Sort
+
+Merge Sort
+
+Selection Sort
+
+Menu-driven interface to run and test each algorithm interactively.
+
+🛠️ Technologies Used
+
+Language: C (C11 standard)
+
+Concepts: Searching, Sorting, Algorithm Complexity, Modular Programming
