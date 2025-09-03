@@ -22,7 +22,7 @@ Merge Sort – Divide & conquer with merging.
 
 Selection Sort – Repeatedly pick the smallest element.
 
-🛠️ Tech Stack
+🛠️## Tech Stack
 
 Language: C (C11 standard)
 
