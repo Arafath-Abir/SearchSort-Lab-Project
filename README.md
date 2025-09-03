@@ -1,31 +1,31 @@
-🔎 Search and Sort Algorithms in C
+Search & Sort Algorithms in C
 
-A modular C project implementing fundamental searching and sorting algorithms. This project is designed for learning, demonstration, and practice of algorithmic problem-solving with clean, reusable code.
+A modular C project that demonstrates fundamental searching and sorting techniques.
+The project is designed for learning, practice, and showcasing clean, reusable implementations of classic algorithms.
 
-✨ Features
+🚀 Algorithms Implemented
+🔍 Searching
 
-Searching Algorithms:
+Linear Search – Simple scan of an array.
 
-Linear Search
+Binary Search – Efficient search on sorted arrays (auto-sorts input before searching).
 
-Binary Search (with automatic sorting for safe use)
+📊 Sorting
 
-Sorting Algorithms:
+Bubble Sort – Repeated swapping of adjacent elements.
 
-Bubble Sort
+Quick Sort – Divide & conquer with partitioning.
 
-Quick Sort
+Insertion Sort – Build a sorted list one element at a time.
 
-Insertion Sort
+Merge Sort – Divide & conquer with merging.
 
-Merge Sort
+Selection Sort – Repeatedly pick the smallest element.
 
-Selection Sort
-
-Menu-driven interface to run and test each algorithm interactively.
-
-🛠️ Technologies Used
+🛠️ Tech Stack
 
 Language: C (C11 standard)
 
-Concepts: Searching, Sorting, Algorithm Complexity, Modular Programming
+Concepts: Searching, Sorting, Time Complexity, Modular Programming
+
+Build Tool: Makefile
